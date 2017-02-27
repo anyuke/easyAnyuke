@@ -1,4 +1,4 @@
-var transform = function(key, callback) {
+var transform = function(key, arr) {
     var newArr = [];
     var data = [];
     newArr.push(arr[0]);
@@ -21,7 +21,7 @@ var transform = function(key, callback) {
             data.push(temp);
         }
     }
-    callback(data);
+    return(data);
 }
 
 module.exports = transform;

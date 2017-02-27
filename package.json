@@ -1,6 +1,6 @@
 {
   "name": "easyanyuke",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "测连hello world",
   "main": "index.js",
   "scripts": {
