@@ -1,0 +1,22 @@
+{
+  "name": "eay",
+  "version": "1.0.0",
+  "description": "测连hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyuke/easyAnyuke.git"
+  },
+  "keywords": [
+    "eay"
+  ],
+  "author": "anyuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyuke/easyAnyuke/issues"
+  },
+  "homepage": "https://github.com/anyuke/easyAnyuke#readme"
+}
