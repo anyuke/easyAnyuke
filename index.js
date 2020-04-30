@@ -23,6 +23,6 @@ var transform = function(key, arr) {
     }
     return(data);
 }
-console.log('master');
+console.log('fix');
 
 module.exports = transform;
